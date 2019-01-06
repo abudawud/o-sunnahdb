@@ -6,5 +6,5 @@ Projek ini memiliki Lisensi FreeSoftware, setiap orang dapat berkontribusi atau 
 
 # About
 Dikembangkan oleh Hafidz:
-email: warishafidz@gmail.com
-telegram: https://t.me/warishafidz
+* email: warishafidz@gmail.com
+* telegram: https://t.me/warishafidz
